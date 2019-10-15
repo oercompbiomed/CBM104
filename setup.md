@@ -69,8 +69,8 @@ These notebooks requires an R kernel to run the R scripts. We recommend to insta
 
 at the local CBM104 root directory, and have installed R version 3.5.1 (say), type:
 
-CBM101>`conda deactivate` <br>
-CBM101>`"C:\Program Files\R\R-3.5.1\bin\R.exe"` <br>
+CBM104>`conda deactivate` <br>
+CBM104>`"C:\Program Files\R\R-3.5.1\bin\R.exe"` <br>
 
 Now you got the R command prompt `>`. Then type <br>
 
@@ -82,8 +82,8 @@ Now you got the R command prompt `>`. Then type <br>
 
 at the local CBM104 root directory, and have installed R version 3.6.0 (say), type:
 
-CBM101>`conda deactivate` <br>
-CBM101>`/usr/local/bin/R` <br>
+CBM104>`conda deactivate` <br>
+CBM104>`/usr/local/bin/R` <br>
 
 Now you got the R command prompt `>`. Then type <br>
   \> `install.packages('IRkernel')` <br>
@@ -94,8 +94,8 @@ Now you got the R command prompt `>`. Then type <br>
 
 at the local CBM104 root directory, and have installed R version 3.6.1 (say), type:
 
-  CBM101>`conda deactivate` <br>
-  CBM101>`/usr/bin/R` <br>
+  CBM104>`conda deactivate` <br>
+  CBM104>`/usr/bin/R` <br>
 
 Now you got the R command prompt `>`. Then type <br>
     \> `install.packages('IRkernel')` <br>
@@ -103,9 +103,9 @@ Now you got the R command prompt `>`. Then type <br>
     \> `quit()`<br>
 
 
-**Then**: Go to the `E_Biostatistics` folder, and start the Jupyter notebook, i.e.
+**Then**: Go to the `E_imaging_in_R` folder, and start the Jupyter notebook, i.e.
 
-CBM101/E_Biostatistics>`jupyter notebook`
+CBM104/E_imaging_in_R>`jupyter notebook`
 
 and you will load the `R kernel` when opening an  `.ipynb`  notebook, say `ProbsAndDistr.ipynb` in the `Probabilities-and-Distributions` folder.
 
