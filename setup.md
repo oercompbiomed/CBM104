@@ -19,8 +19,8 @@ conda install git
 ```
 ### Download the repository:
 ```bash
-git clone https://github.com/oercompbiomed/CBM101
-cd CBM101
+git clone https://github.com/oercompbiomed/CBM104
+cd CBM104
 ```
 ### Configure the Python-environment:
 ```bash
@@ -29,7 +29,7 @@ conda env update
 
 ### Activate the environment:
 ```bash
-conda activate cbm101
+conda activate cbm104
 ```
 If you are using Linux or MacOS and the command above fails, type
 ```bash
@@ -39,11 +39,11 @@ and try `conda activate cbm101` again. If this fails, activate the environment b
 
 ### Install a Jupyter kernel:
 ```bash
-python -m ipykernel install --user --name cbm101 --display-name "CBM101"
+python -m ipykernel install --user --name cbm104 --display-name "CBM104"
 ```
 
 ### Test you installation:
-Go through the notebook `1.0-python-basics.ipynb` in the `B_Python_and_friends` directory:
+Go through the notebook `0.0-test.ipynb` in the `A_image_processing_intro` directory:
 ```bash
 cd notebooks
 jupyter notebook
@@ -67,7 +67,7 @@ These notebooks requires an R kernel to run the R scripts. We recommend to insta
 
 ### If you are on **Windows**,
 
-at the local CBM101 root directory, and have installed R version 3.5.1 (say), type:
+at the local CBM104 root directory, and have installed R version 3.5.1 (say), type:
 
 CBM101>`conda deactivate` <br>
 CBM101>`"C:\Program Files\R\R-3.5.1\bin\R.exe"` <br>
@@ -80,7 +80,7 @@ Now you got the R command prompt `>`. Then type <br>
 
 ### If you are on **Mac**,
 
-at the local CBM101 root directory, and have installed R version 3.6.0 (say), type:
+at the local CBM104 root directory, and have installed R version 3.6.0 (say), type:
 
 CBM101>`conda deactivate` <br>
 CBM101>`/usr/local/bin/R` <br>
@@ -92,7 +92,7 @@ Now you got the R command prompt `>`. Then type <br>
 
 ### If you are on **Linux**,
 
-at the local CBM101 root directory, and have installed R version 3.6.1 (say), type:
+at the local CBM104 root directory, and have installed R version 3.6.1 (say), type:
 
   CBM101>`conda deactivate` <br>
   CBM101>`/usr/bin/R` <br>
