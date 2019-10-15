@@ -55,7 +55,7 @@ The code and environment will be updated during the course. Run the following co
 * Update code: `git pull`
 * Update environment:
 ```bash
-conda activate cbm101
+conda activate cbm104
 conda env update
 ```
 
