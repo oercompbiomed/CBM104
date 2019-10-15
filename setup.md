@@ -103,9 +103,9 @@ Now you got the R command prompt `>`. Then type <br>
     \> `quit()`<br>
 
 
-**Then**: Go to the `E_imaging_in_R` folder, and start the Jupyter notebook, i.e.
+**Then**: Go to the `Extra_imaging_in_R` folder, and start the Jupyter notebook, i.e.
 
-CBM104/E_imaging_in_R>`jupyter notebook`
+CBM104/Extra_imaging_in_R>`jupyter notebook`
 
 and you will load the `R kernel` when opening an  `.ipynb`  notebook, say `ProbsAndDistr.ipynb` in the `Probabilities-and-Distributions` folder.
 
