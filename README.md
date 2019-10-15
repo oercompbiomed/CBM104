@@ -5,7 +5,7 @@ Copyright (c) 2019 OERCompBiomed - Open Educational Resources in Computational B
 
 The goal of the course is twofold: 
 
-- (i) introducing the students to biomedical imaging in space and time (2D, 3D, 4D image data) and providing theoretical concepts and knowledge, algorithms and libraries (e.g. scikit-image, nibabel, dipy, pyradiomics, SimpleITK) for image processing and analysis (e.g. contrast-to-noise estimation, denoising, image registration, image segmentation, imaging-derived biomarkers) with examples from both digital pathology and human MRI recordings; 
+- (i) introducing the students to biomedical imaging in space and time (2D, 3D, 4D image data) and providing theoretical concepts and knowledge, algorithms and libraries (e.g. scikit-image, nibabel, dipy, pyradiomics, SimpleITK) for image processing and analysis (e.g. contrast-to-noise estimation, denoising, image registration, image segmentation, imaging-derived biomarkers) with examples from both [digital pathology](https://en.wikipedia.org/wiki/Digital_pathology) and human [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) recordings; 
 
 - (ii) focusing on structural and functional brain MRI, we will explain and compute approaches to supervised and unsupervised tissue classification, perform tractography of white matter fiber bundles, estimate perfusion parameters, and derive functional connectivity and graph measures from resting state fMRI recordings. 
 
