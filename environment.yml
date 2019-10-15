@@ -1,0 +1,46 @@
+name: cbm104
+dependencies:
+- python>=3.6.0
+- pip
+- ipython
+- ipywidgets
+- jupyter
+- git
+- numpy
+- matplotlib
+- pandas
+- scikit-learn
+- ipykernel
+- conda-forge::jupyter_contrib_nbextensions
+- conda-forge::jupyterlab
+- conda-forge::statsmodels
+- conda-forge::graphviz
+- conda-forge::dcm2niix
+- conda-forge::nxviz
+- scipy
+- seaborn
+- imageio
+- simplegeneric
+- pytables
+- openpyxl
+- pip:
+  - pip
+  - opencv-python
+  - scikit-image
+  - Pillow
+  - SimpleITK
+  - networkx
+  - pandas-profiling
+  - xlrd
+  - nibabel
+  - nilearn
+  - joblib
+  - dipy
+  - eli5
+  - pdpbox
+  - wand
+  - python-louvain
+  - pyradiomics
+  - fury
+  - plotly
+  - pydot
