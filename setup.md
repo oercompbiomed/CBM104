@@ -45,7 +45,7 @@ python -m ipykernel install --user --name cbm104 --display-name "CBM104"
 ### Test you installation:
 Go through the notebook `0.0-test.ipynb` in the `A_image_processing_intro` directory:
 ```bash
-cd notebooks
+cd A_image_processing_intro
 jupyter notebook
 ```
 You can also use [JupyterLab](https://github.com/jupyterlab/jupyterlab): `jupyter lab`.
@@ -107,7 +107,7 @@ Now you got the R command prompt `>`. Then type <br>
 
 CBM104/Extra_imaging_in_R>`jupyter notebook`
 
-and you will load the `R kernel` when opening an  `.ipynb`  notebook, say `ProbsAndDistr.ipynb` in the `Probabilities-and-Distributions` folder.
+and you will load the `R kernel` when opening an  `.ipynb` notebook with R-code, say `0.0-R-test.ipynb`.
 
 
 
