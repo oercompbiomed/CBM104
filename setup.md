@@ -35,7 +35,7 @@ If you are using Linux or MacOS and the command above fails, type
 ```bash
 source ~/.bash_profile
 ```
-and try `conda activate cbm101` again. If this fails, activate the environment by typing `source activate cbm101` instead.
+and try `conda activate cbm104` again. If this fails, activate the environment by typing `source activate cbm104` instead.
 
 ### Install a Jupyter kernel:
 ```bash
